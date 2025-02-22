@@ -1,0 +1,12 @@
+# ninja log v6
+5	132	7619175805705825	PoCQet_autogen/timestamp	c68be1448f698534
+5	132	7619175805705825	PoCQet_autogen/mocs_compilation.cpp	c68be1448f698534
+5	132	7619175805705825	D:/PoCQet/cmake-build-debug/PoCQet_autogen/timestamp	c68be1448f698534
+5	132	7619175805705825	D:/PoCQet/cmake-build-debug/PoCQet_autogen/mocs_compilation.cpp	c68be1448f698534
+139	185	7619175806324976	CMakeFiles/PoCQet.dir/PoCQet_autogen/mocs_compilation.cpp.obj	199219594502c9fb
+135	424	7619175806284884	CMakeFiles/PoCQet.dir/main.cpp.obj.ddi	d738a51f57c773fc
+434	479	7619175809682169	CMakeFiles/PoCQet.dir/CXX.dd	ff84b145d16bdd3e
+434	479	7619175809682169	D:/PoCQet/cmake-build-debug/CMakeFiles/PoCQet.dir/CXXModules.json	ff84b145d16bdd3e
+434	479	7619175809682169	CMakeFiles/PoCQet.dir/main.cpp.obj.modmap	ff84b145d16bdd3e
+486	3199	7619175809792459	CMakeFiles/PoCQet.dir/main.cpp.obj	8796e50db50daa12
+3200	3803	7619175836941760	PoCQet.exe	45e09001f2822c4c
