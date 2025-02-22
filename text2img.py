@@ -14,9 +14,9 @@ def generate(prompt, output_path):
     image.save(output_path)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
+    """parser = argparse.ArgumentParser()
     parser.add_argument("--prompt", type=str, required=True)
     parser.add_argument("--output_path", type=str, required=True)
-    args = parser.parse_args()
+    args = parser.parse_args()"""
 
-    generate(args.prompt, args.output_path)
+    generate("一个南开大学的学生", "/image.png'")

@@ -15,3 +15,7 @@
 <p>Implemented a functional framework that accesses the model via huggingface repository</p>
 <p>Model not loaded yet</p>
 
+### Log ver 0.1.1
+<p>Integrating sd3.5</p>
+<p>Changed t2i.py into a demo</p>
+<p>The Network in Jinnan Campus is unbearably slow !</p>
