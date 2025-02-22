@@ -11,3 +11,7 @@
 ### Log ver 0.0.1
 <p>Hello World!</p>
 
+### Log ver 0.1.0
+<p>Implemented a functional framework that accesses the model via huggingface repository</p>
+<p>Model not loaded yet</p>
+

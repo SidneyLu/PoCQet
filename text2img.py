@@ -5,7 +5,7 @@ from diffusers import StableDiffusionPipeline
 # a framework that uses pretrained model
 def generate(prompt, output_path):
     pipe = StableDiffusionPipeline.from_pretrained(
-     "",
+     "stabilityai/stable-diffusion-3.5-medium",
         torch_dtype=torch.float16
     )
     pipe.to("cuda" if torch.cuda.is_available() else "cpu")
